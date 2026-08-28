@@ -6,8 +6,8 @@ A structured series of Jupyter notebooks covering Python fundamentals.
 
 | # | Section | Description |
 |---|---------|-------------|
-| 01 | [Object-Oriented Programming](01-object-oriented-programming/) | Classes, attributes, properties, and class relationships |
-| 02 | [Data Structures](02-data-structures/) | Coming soon |
+| 01 | [Data Structures](01-data-structures/) | Coming soon |
+| 02 | [Object-Oriented Programming](02-object-oriented-programming/) | Classes, attributes, properties, and class relationships |
 
 ## Requirements
 
