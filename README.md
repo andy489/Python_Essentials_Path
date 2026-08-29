@@ -1,6 +1,6 @@
 # Python Essentials Path
 
-A structured series of Jupyter notebooks covering Python fundamentals.
+A structured series of Jupyter notebooks covering Python fundamentals, with hands-on examples.
 
 ## Sections
 
