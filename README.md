@@ -6,7 +6,7 @@ A structured series of Jupyter notebooks covering Python fundamentals.
 
 | # | Section | Description |
 |---|---------|-------------|
-| 01 | [Data Structures](01-data-structures/) | Coming soon |
+| 01 | [Data Structures](01-data-structures/) | Lists, tuples, dictionaries, sets, and specialized collections |
 | 02 | [Object-Oriented Programming](02-object-oriented-programming/) | Classes, attributes, properties, and class relationships |
 
 ## Requirements
