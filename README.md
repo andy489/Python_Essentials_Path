@@ -8,6 +8,7 @@ A structured series of Jupyter notebooks covering Python fundamentals.
 |---|---------|-------------|
 | 01 | [Data Structures](01-data-structures/) | Lists, tuples, dictionaries, sets, and specialized collections |
 | 02 | [Object-Oriented Programming](02-object-oriented-programming/) | Classes, attributes, properties, and class relationships |
+| 03 | [File Operations](03-file-operations/) | Reading, writing, and appending files; file modes and best practices |
 
 ## Requirements
 
